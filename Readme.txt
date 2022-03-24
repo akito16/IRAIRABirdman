@@ -1,5 +1,8 @@
 ゲーム作品番号：UnrealEngine-1　対応OS：Windows　制作環境：UnrealEngine 4.27
 
+追記
+Gameフォルダ内exeファイルが開かないことが確認されたため、修正中です。
+
 タイトル：
     イライラ鳥人間
 
