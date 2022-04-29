@@ -1,10 +1,11 @@
 (完成)
 ゲーム作品番号：UnrealEngine 01　対応OS：Windows　制作環境：UnrealEngine 4.27
 
-追記
-(修正済み)Gameフォルダ内exeファイルが開かないことが確認されたため、修正中です。
--Gameフォルダを修正しました。exeファイルが開くことも確認できました。
+フォルダ：
+    Project：UnrealEngine　プロジェクトファイル、ソースファイル
+    Game：ゲーム本体
 
+-------------------概要-------------------
 タイトル：
     イライラ鳥人間
 
@@ -29,6 +30,3 @@
     UnrealEngine グレイマン
     OtoLogic
 
-フォルダ：
-    Project：UnrealEngine　プロジェクトファイル、ソースファイル
-    Game：ゲーム本体
