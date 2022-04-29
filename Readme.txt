@@ -30,5 +30,5 @@
     OtoLogic
 
 フォルダ：
-    Project：UnrealEngine　プロジェクトファイル
+    Project：UnrealEngine　プロジェクトファイル、ソースファイル
     Game：ゲーム本体
